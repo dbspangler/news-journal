@@ -1,0 +1,9 @@
+# Keep this list short + high-signal. Mix of world, US, business, tech, science.
+# RSS/Atom URLs:
+https://www.reuters.com/rssFeed/worldNews
+https://feeds.bbci.co.uk/news/world/rss.xml
+https://feeds.npr.org/1004/rss.xml
+https://www.ft.com/?format=rss
+https://www.economist.com/the-world-this-week/rss.xml
+https://www.theverge.com/rss/index.xml
+https://www.nature.com/nature.rss
